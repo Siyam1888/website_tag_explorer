@@ -2,19 +2,19 @@
     {
         "tag_name": "YouTube",
         "tag_urls": [
-            "https://i.ytimg.com"
+            "i.ytimg.com"
         ]
     },
     {
         "tag_name": "Google Universal Analytics",
         "tag_urls": [
-            "https://www.google-analytics.com"
+            "www.google-analytics.com"
         ]
     },
     {
         "tag_name": "Google Tag Manager",
         "tag_urls": [
-            "https://www.googletagmanager.com/gtm.js"
+            "www.googletagmanager.com/gtm.js"
         ]
     },
     {
@@ -26,248 +26,247 @@
     {
         "tag_name": "Google Web Font",
         "tag_urls": [
-            "https://fonts.googleapis.com"
+            "fonts.googleapis.com"
         ]
     },
     {
         "tag_name": "AppNexus",
         "tag_urls": [
-            "https://ib.adnxs.com"
+            "ib.adnxs.com"
         ]
     },
     {
         "tag_name": "Google Authorized Buyers - Cookie Match",
         "tag_urls": [
-            "https://cm.g.doubleclick.net"
+            "cm.g.doubleclick.net"
         ]
     },
     {
         "tag_name": "Verizon Media",
         "tag_urls": [
-            "https://pixel.advertising.com",
-            "https://cms.analytics.yahoo.com",
-            "https://ups.analytics.yahoo.com",
-            "https://ads.yahoo.com"
+            "pixel.advertising.com",
+            "cms.analytics.yahoo.com",
+            "ups.analytics.yahoo.com",
+            "ads.yahoo.com"
         ]
     },
     {
         "tag_name": "Gigya",
         "tag_urls": [
-            "https://cdns.gigya.com",
-            " https://cdns.us1.gigya.com",
-            " https://accounts.us1.gigya.com"
+            "cdns.gigya.com",
+            " cdns.us1.gigya.com",
+            " accounts.us1.gigya.com"
         ]
     },
     {
         "tag_name": "Index Exchange",
         "tag_urls": [
-            "https://ssum-sec.casalemedia.com"
+            "ssum-sec.casalemedia.com"
         ]
     },
     {
         "tag_name": "Rubicon Project",
         "tag_urls": [
-            "https://token.rubiconproject.com"
+            "token.rubiconproject.com"
         ]
     },
     {
         "tag_name": "BidSwitch",
         "tag_urls": [
-            "https://x.bidswitch.net"
+            "x.bidswitch.net"
         ]
     },
     {
         "tag_name": "PubMatic",
         "tag_urls": [
-            "https://image6.pubmatic.com"
+            "image6.pubmatic.com"
         ]
     },
     {
         "tag_name": "Cloud.typography",
         "tag_urls": [
-            "https://cloud.typography.com"
+            "cloud.typography.com"
         ]
     },
     {
         "tag_name": "Facebook Social Plugins",
         "tag_urls": [
-            "https://connect.facebook.net"
+            "connect.facebook.net"
         ]
     },
     {
         "tag_name": "Google Maps",
         "tag_urls": [
-            "https://maps.googleapis.com/maps"
+            "maps.googleapis.com/maps"
         ]
     },
     {
         "tag_name": "Adobe AudienceManager",
         "tag_urls": [
-            "https://dpm.demdex.net",
-            " https://mscom.demdex.net",
-            ""
+            "dpm.demdex.net",
+            "mscom.demdex.net"
         ]
     },
     {
         "tag_name": "Price Spider",
         "tag_urls": [
-            "https://cdn.pricespider.com"
+            "cdn.pricespider.com"
         ]
     },
     {
         "tag_name": "BlueKai",
         "tag_urls": [
-            "https://tags.bluekai.com"
+            "tags.bluekai.com"
         ]
     },
     {
         "tag_name": "Neustar Aggregate Knowledge",
         "tag_urls": [
-            "https://aa.agkn.com"
+            "aa.agkn.com"
         ]
     },
     {
         "tag_name": "Google Global Site Tag (gtag.js)",
         "tag_urls": [
-            "https://www.googletagmanager.com/gtag"
+            "www.googletagmanager.com/gtag"
         ]
     },
     {
         "tag_name": "Survata",
         "tag_urls": [
-            "https://px.surveywall-api.survata.com"
+            "px.surveywall-api.survata.com"
         ]
     },
     {
         "tag_name": "iSpot TV",
         "tag_urls": [
-            "https://pi.ispot.tv"
+            "pi.ispot.tv"
         ]
     },
     {
         "tag_name": "Microsoft Advertising Universal Event Tracking",
         "tag_urls": [
-            "https://c.bing.com"
+            "c.bing.com"
         ]
     },
     {
         "tag_name": "Amazon Product Ads",
         "tag_urls": [
-            "https://s.amazon-adsystem.com"
+            "s.amazon-adsystem.com"
         ]
     },
     {
         "tag_name": "Media Innovation Group",
         "tag_urls": [
-            "https://odr.mookie1.com"
+            "odr.mookie1.com"
         ]
     },
     {
         "tag_name": "Twitter Conversion Tracking",
         "tag_urls": [
-            "https://analytics.twitter.com"
+            "analytics.twitter.com"
         ]
     },
     {
         "tag_name": "Adform",
         "tag_urls": [
-            "https://c1.adform.net"
+            "c1.adform.net"
         ]
     },
     {
         "tag_name": "Salesforce DMP (Krux)",
         "tag_urls": [
-            "https://usermatch.krxd.net"
+            "usermatch.krxd.net"
         ]
     },
     {
         "tag_name": "Adobe Analytics",
         "tag_urls": [
-            "https://msftenterprise.sc.omtrdc.net"
+            "msftenterprise.sc.omtrdc.net"
         ]
     },
     {
         "tag_name": "eXelate",
         "tag_urls": [
-            "https://loadus.exelator.com"
+            "loadus.exelator.com"
         ]
     },
     {
         "tag_name": "OpenX",
         "tag_urls": [
-            "https://us-u.openx.net"
+            "us-u.openx.net"
         ]
     },
     {
         "tag_name": "FreeWheel",
         "tag_urls": [
-            "https://ads.stickyadstv.com"
+            "ads.stickyadstv.com"
         ]
     },
     {
         "tag_name": "Taboola",
         "tag_urls": [
-            "https://sync.taboola.com"
+            "sync.taboola.com"
         ]
     },
     {
         "tag_name": "ScorecardResearch",
         "tag_urls": [
-            "https://sb.scorecardresearch.com"
+            "sb.scorecardresearch.com"
         ]
     },
     {
         "tag_name": "telaria",
         "tag_urls": [
-            "https://amazon.partners.tremorhub.com"
+            "amazon.partners.tremorhub.com"
         ]
     },
     {
         "tag_name": "Adobe Cloud ID Service",
         "tag_urls": [
-            "https://dpm.demdex.net/id"
+            "dpm.demdex.net/id"
         ]
     },
     {
         "tag_name": "RhythmOne",
         "tag_urls": [
-            "https://sync.1rx.io"
+            "sync.1rx.io"
         ]
     },
     {
         "tag_name": "SpotXchange",
         "tag_urls": [
-            "https://sync.search.spotxchange.com"
+            "sync.search.spotxchange.com"
         ]
     },
     {
         "tag_name": "ZeoTap",
         "tag_urls": [
-            "https://spl.zeotap.com"
+            "spl.zeotap.com"
         ]
     },
     {
         "tag_name": "VisualIQ",
         "tag_urls": [
-            "https://t.myvisualiq.net"
+            "t.myvisualiq.net"
         ]
     },
     {
         "tag_name": "Lucid",
         "tag_urls": [
-            "https://usersync.samplicio.us"
+            "usersync.samplicio.us"
         ]
     },
     {
         "tag_name": "Placed",
         "tag_urls": [
-            "https://pixel.placed.com"
+            "pixel.placed.com"
         ]
     },
     {
         "tag_name": "NinthDecimal",
         "tag_urls": [
-            "https://lciapi.ninthdecimal.com"
+            "lciapi.ninthdecimal.com"
         ]
     }
 ]
