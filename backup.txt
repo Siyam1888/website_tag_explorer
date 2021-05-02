@@ -1,0 +1,107 @@
+Tag Name	Found on Website	Tag URL
+YouTube	http://4wayspray.com	https://i.ytimg.com
+Google Universal Analytics	http://4wayspray.com	https://www.google-analytics.com
+Google Tag Manager	http://4wayspray.com	https://www.googletagmanager.com/gtm.js
+Tag Inspector Realtime	http://4wayspray.com	realtime.taginspector
+Google Ads Audience Tracker	http://4wayspray.com	www.google.com/ads/ga-audiences
+OneTrust	http://4wayspray.com	onetrust.com, cdn.cookielaw.org
+DoubleClick	http://abreva.ca	doubleclick.net
+Google Web Font	http://abreva.ca	https://fonts.googleapis.com
+DoubleClick Floodlight	http://abreva.com	www.googletagmanager.com/gtag
+AppNexus	http://abreva.com	https://ib.adnxs.com
+The Trade Desk	http://abreva.com	insight.adsrvr.org
+Google Authorized Buyers - Cookie Match	http://abreva.com	https://cm.g.doubleclick.net
+Verizon Media	http://abreva.com	https://pixel.advertising.com, https://cms.analytics.yahoo.com, https://ups.analytics.yahoo.com, https://ads.yahoo.com
+Facebook Pixel	http://abreva.com	www.facebook.com/tr
+Gigya	http://abreva.com	https://cdns.gigya.com, https://cdns.us1.gigya.com, https://accounts.us1.gigya.com
+Google Optimize	http://advil.com	www.googleoptimize.com
+Index Exchange	http://abreva.com	https://ssum-sec.casalemedia.com
+Rubicon Project	http://abreva.com	https://token.rubiconproject.com
+BidSwitch	http://abreva.com	https://x.bidswitch.net
+PubMatic	http://abreva.com	https://image6.pubmatic.com
+Fonts.com	http://aquafresh.bg	fast.fonts.net
+Cloud.typography	http://aquafresh.bg	https://cloud.typography.com
+Facebook Social Plugins	http://advil.com	https://connect.facebook.net
+Google Maps	http://abreva.com	https://maps.googleapis.com/maps
+Google Ads Conversion	http://abreva.com	www.googleadservices.com/pagead/conversion_async.js
+Google Ads Remarketing	http://abreva.com	googleads.g.doubleclick.net
+Adobe AudienceManager	http://abreva.com	https://dpm.demdex.net, https://mscom.demdex.net, 
+AddThis	http://aquafresh.ca/?iso=en	www.addthis.com
+Price Spider	http://abreva.ca	https://cdn.pricespider.com
+BlueKai	http://abreva.com	https://tags.bluekai.com
+Moat	http://aquafresh.ca/?iso=en	moatads.com
+Neustar Aggregate Knowledge	http://abreva.com	https://aa.agkn.com
+MediaMath	http://advil.com	pixel.mathtag.com
+Google Global Site Tag (gtag.js)	http://abreva.ca	https://www.googletagmanager.com/gtag
+DoubleClick Bid Manager	http://aquafresh.cl	
+Bazaarvoice	http://abreva.com	bazaarvoice.com
+Survata	http://abreva.com	https://px.surveywall-api.survata.com
+Roku OneView (DataXu)	http://aquafresh.ca/?iso=en	survata
+Centro	http://aquafresh.ca/?iso=fr	centro
+TubeMogul	http://aquafresh.ca/?iso=fr	www.tubemogul.com
+Twitter Widget	http://alikal.com.ar	platform.twitter.com
+Amobee	http://aquafresh.ca/?iso=en	amobee
+MaxMind	http://enoliquid.co.in	maxmind.com
+iSpot TV	http://abreva.com	https://pi.ispot.tv
+Videology	http://aquafresh.ca/?iso=en	videology
+LiveIntent	http://aquafresh.ca/?iso=en	liadm.com
+GA4	http://advil.com	liveintent
+Microsoft Advertising Universal Event Tracking	http://amp.flonase.com	https://c.bing.com
+Yandex Metrics	http://aquafresh.ru	mc.yandex.ru
+Amazon Product Ads	http://abreva.com	https://s.amazon-adsystem.com
+Ensighten	http://alli.it	nexus.ensighten.com
+New Relic	http://aquafresh.ca/?iso=en	js-agent.newrelic.com
+Tealium	http://aquafresh.ca/?iso=en	tags.tiqcdn.com
+Media Innovation Group	http://abreva.com	https://odr.mookie1.com
+Twitter Conversion Tracking	http://abreva.com	https://analytics.twitter.com
+Yahoo Tag Manager	http://activir.jp	
+Retargeting	http://activir.jp	
+Adform	http://abreva.com	https://c1.adform.net
+Salesforce DMP (Krux)	http://abreva.com	https://usermatch.krxd.net
+Adobe Analytics	http://alli.it	https://msftenterprise.sc.omtrdc.net
+PowerReviews	http://abreva.com	www.powerreviews.com
+LiveRamp	http://biotene.com.au	liveramp
+Google Recaptcha	http://centrumnewyear.com	www.google.com/recaptcha
+Mail.Ru Group	http://checkderm.ru	corp.mail.ru
+Adobe Typekit	http://excedrin.com	typekit.net
+Tapad	http://abreva.com	www.tapad.com
+Hotjar	http://dolex.com.co	static.hotjar.com
+Sqreem	http://flunase.jp	
+eXelate	http://abreva.com	https://loadus.exelator.com
+OpenX	http://abreva.com	https://us-u.openx.net
+VK Widget	http://checkderm.ru	
+FreeWheel	http://abreva.com	https://ads.stickyadstv.com
+Taboola	http://abreva.com	https://sync.taboola.com
+Drawbridge	http://biotene.com.au	
+LinkedIn Insight	http://biotene.com.au	snap.licdn.com, px.ads.linkedin.com
+Webtrends	http://lamisil.dk	webtrends.js, tagging.novartis.com
+Sizmek	http://abreva.com	
+ScorecardResearch	http://abreva.com	https://sb.scorecardresearch.com
+telaria	http://abreva.com	https://amazon.partners.tremorhub.com
+Adobe Advertising Cloud	http://biotene.com.au	
+Adobe Cloud ID Service	http://biotene.com.au	https://dpm.demdex.net/id
+RhythmOne	http://abreva.com	https://sync.1rx.io
+SpotXchange	http://abreva.com	https://sync.search.spotxchange.com
+Unruly	http://abreva.com	
+ZeoTap	http://abreva.com	https://spl.zeotap.com
+Google Classic Analytics	http://alli.it	www.google-analytics.com
+MyFonts	http://biotene.ca	hello.myfonts.net
+Snowplow Analytics	http://biotene.com.au	snplow.com, snplow.net
+Outbrain	http://abreva.com	www.outbrain.com
+VisualIQ	http://abreva.com	https://t.myvisualiq.net
+Lucid	http://abreva.com	https://usersync.samplicio.us
+Placed	http://abreva.com	https://pixel.placed.com
+NinthDecimal	http://abreva.com	https://lciapi.ninthdecimal.com
+Adobe Target	http://biotene.com.au	glaxosmithklinebeech.tt.omtrdc.net
+Yahoo Dot Tags	http://enoantacid.ca	
+Heroku	http://gskbusinessonline.gr	herokuapp.com
+Adoric	http://gskhealthpartner.com/en-gb	
+TripleLift	http://mydenturecare.com	
+Decibel Insight	http://centrum.com	
+Google Botguard	http://chapstick.com	www.google.com/js/bg
+Sharethrough	http://mydenturecare.com	match.sharethrough.com, sharethrough.com
+Semasio	http://mydenturecare.com	
+CookieQ	http://panadol.ke	cdn.baycloud.com
+Content Square		
+Qualtrics		qualtrics.com
+Truoptik		

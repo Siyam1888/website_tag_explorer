@@ -18,6 +18,25 @@
         ]
     },
     {
+        "tag_name": "Tag Inspector Realtime",
+        "tag_urls": [
+            "realtime.taginspector"
+        ]
+    },
+    {
+        "tag_name": "Google Ads Audience Tracker",
+        "tag_urls": [
+            "www.google.com/ads/ga-audiences"
+        ]
+    },
+    {
+        "tag_name": "OneTrust",
+        "tag_urls": [
+            "onetrust.com",
+            "cdn.cookielaw.org"
+        ]
+    },
+    {
         "tag_name": "DoubleClick",
         "tag_urls": [
             "doubleclick.net"
@@ -30,9 +49,21 @@
         ]
     },
     {
+        "tag_name": "DoubleClick Floodlight",
+        "tag_urls": [
+            "www.googletagmanager.com/gtag"
+        ]
+    },
+    {
         "tag_name": "AppNexus",
         "tag_urls": [
             "ib.adnxs.com"
+        ]
+    },
+    {
+        "tag_name": "The Trade Desk",
+        "tag_urls": [
+            "insight.adsrvr.org"
         ]
     },
     {
@@ -51,11 +82,23 @@
         ]
     },
     {
+        "tag_name": "Facebook Pixel",
+        "tag_urls": [
+            "www.facebook.com/tr"
+        ]
+    },
+    {
         "tag_name": "Gigya",
         "tag_urls": [
             "cdns.gigya.com",
-            " cdns.us1.gigya.com",
-            " accounts.us1.gigya.com"
+            "cdns.us1.gigya.com",
+            "accounts.us1.gigya.com"
+        ]
+    },
+    {
+        "tag_name": "Google Optimize",
+        "tag_urls": [
+            "www.googleoptimize.com"
         ]
     },
     {
@@ -83,6 +126,12 @@
         ]
     },
     {
+        "tag_name": "Fonts.com",
+        "tag_urls": [
+            "fast.fonts.net"
+        ]
+    },
+    {
         "tag_name": "Cloud.typography",
         "tag_urls": [
             "cloud.typography.com"
@@ -101,10 +150,28 @@
         ]
     },
     {
+        "tag_name": "Google Ads Conversion",
+        "tag_urls": [
+            "www.googleadservices.com/pagead/conversion_async.js"
+        ]
+    },
+    {
+        "tag_name": "Google Ads Remarketing",
+        "tag_urls": [
+            "googleads.g.doubleclick.net"
+        ]
+    },
+    {
         "tag_name": "Adobe AudienceManager",
         "tag_urls": [
             "dpm.demdex.net",
             "mscom.demdex.net"
+        ]
+    },
+    {
+        "tag_name": "AddThis",
+        "tag_urls": [
+            "www.addthis.com"
         ]
     },
     {
@@ -120,9 +187,21 @@
         ]
     },
     {
+        "tag_name": "Moat",
+        "tag_urls": [
+            "moatads.com"
+        ]
+    },
+    {
         "tag_name": "Neustar Aggregate Knowledge",
         "tag_urls": [
             "aa.agkn.com"
+        ]
+    },
+    {
+        "tag_name": "MediaMath",
+        "tag_urls": [
+            "pixel.mathtag.com"
         ]
     },
     {
@@ -132,9 +211,51 @@
         ]
     },
     {
+        "tag_name": "Bazaarvoice",
+        "tag_urls": [
+            "bazaarvoice.com"
+        ]
+    },
+    {
         "tag_name": "Survata",
         "tag_urls": [
             "px.surveywall-api.survata.com"
+        ]
+    },
+    {
+        "tag_name": "Roku OneView (DataXu)",
+        "tag_urls": [
+            "survata"
+        ]
+    },
+    {
+        "tag_name": "Centro",
+        "tag_urls": [
+            "centro"
+        ]
+    },
+    {
+        "tag_name": "TubeMogul",
+        "tag_urls": [
+            "www.tubemogul.com"
+        ]
+    },
+    {
+        "tag_name": "Twitter Widget",
+        "tag_urls": [
+            "platform.twitter.com"
+        ]
+    },
+    {
+        "tag_name": "Amobee",
+        "tag_urls": [
+            "amobee"
+        ]
+    },
+    {
+        "tag_name": "MaxMind",
+        "tag_urls": [
+            "maxmind.com"
         ]
     },
     {
@@ -144,15 +265,57 @@
         ]
     },
     {
+        "tag_name": "Videology",
+        "tag_urls": [
+            "videology"
+        ]
+    },
+    {
+        "tag_name": "LiveIntent",
+        "tag_urls": [
+            "liadm.com"
+        ]
+    },
+    {
+        "tag_name": "GA4",
+        "tag_urls": [
+            "liveintent"
+        ]
+    },
+    {
         "tag_name": "Microsoft Advertising Universal Event Tracking",
         "tag_urls": [
             "c.bing.com"
         ]
     },
     {
+        "tag_name": "Yandex Metrics",
+        "tag_urls": [
+            "mc.yandex.ru"
+        ]
+    },
+    {
         "tag_name": "Amazon Product Ads",
         "tag_urls": [
             "s.amazon-adsystem.com"
+        ]
+    },
+    {
+        "tag_name": "Ensighten",
+        "tag_urls": [
+            "nexus.ensighten.com"
+        ]
+    },
+    {
+        "tag_name": "New Relic",
+        "tag_urls": [
+            "js-agent.newrelic.com"
+        ]
+    },
+    {
+        "tag_name": "Tealium",
+        "tag_urls": [
+            "tags.tiqcdn.com"
         ]
     },
     {
@@ -186,6 +349,48 @@
         ]
     },
     {
+        "tag_name": "PowerReviews",
+        "tag_urls": [
+            "www.powerreviews.com"
+        ]
+    },
+    {
+        "tag_name": "LiveRamp",
+        "tag_urls": [
+            "liveramp"
+        ]
+    },
+    {
+        "tag_name": "Google Recaptcha",
+        "tag_urls": [
+            "www.google.com/recaptcha"
+        ]
+    },
+    {
+        "tag_name": "Mail.Ru Group",
+        "tag_urls": [
+            "corp.mail.ru"
+        ]
+    },
+    {
+        "tag_name": "Adobe Typekit",
+        "tag_urls": [
+            "typekit.net"
+        ]
+    },
+    {
+        "tag_name": "Tapad",
+        "tag_urls": [
+            "www.tapad.com"
+        ]
+    },
+    {
+        "tag_name": "Hotjar",
+        "tag_urls": [
+            "static.hotjar.com"
+        ]
+    },
+    {
         "tag_name": "eXelate",
         "tag_urls": [
             "loadus.exelator.com"
@@ -207,6 +412,20 @@
         "tag_name": "Taboola",
         "tag_urls": [
             "sync.taboola.com"
+        ]
+    },
+    {
+        "tag_name": "LinkedIn Insight",
+        "tag_urls": [
+            "snap.licdn.com",
+            "px.ads.linkedin.com"
+        ]
+    },
+    {
+        "tag_name": "Webtrends",
+        "tag_urls": [
+            "webtrends.js",
+            "tagging.novartis.com"
         ]
     },
     {
@@ -246,6 +465,31 @@
         ]
     },
     {
+        "tag_name": "Google Classic Analytics",
+        "tag_urls": [
+            "www.google-analytics.com"
+        ]
+    },
+    {
+        "tag_name": "MyFonts",
+        "tag_urls": [
+            "hello.myfonts.net"
+        ]
+    },
+    {
+        "tag_name": "Snowplow Analytics",
+        "tag_urls": [
+            "snplow.com",
+            "snplow.net"
+        ]
+    },
+    {
+        "tag_name": "Outbrain",
+        "tag_urls": [
+            "www.outbrain.com"
+        ]
+    },
+    {
         "tag_name": "VisualIQ",
         "tag_urls": [
             "t.myvisualiq.net"
@@ -267,6 +511,43 @@
         "tag_name": "NinthDecimal",
         "tag_urls": [
             "lciapi.ninthdecimal.com"
+        ]
+    },
+    {
+        "tag_name": "Adobe Target",
+        "tag_urls": [
+            "glaxosmithklinebeech.tt.omtrdc.net"
+        ]
+    },
+    {
+        "tag_name": "Heroku",
+        "tag_urls": [
+            "herokuapp.com"
+        ]
+    },
+    {
+        "tag_name": "Google Botguard",
+        "tag_urls": [
+            "www.google.com/js/bg"
+        ]
+    },
+    {
+        "tag_name": "Sharethrough",
+        "tag_urls": [
+            "match.sharethrough.com",
+            "sharethrough.com"
+        ]
+    },
+    {
+        "tag_name": "CookieQ",
+        "tag_urls": [
+            "cdn.baycloud.com"
+        ]
+    },
+    {
+        "tag_name": "Qualtrics",
+        "tag_urls": [
+            "qualtrics.com"
         ]
     }
 ]
